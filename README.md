@@ -1,5 +1,6 @@
 # nctu.zsh-theme
 nctu is a theme for Zsh. It emphasizes lightweight and speed.
+<p align="center"><img src="https://github.com/leovincentseles/nctu.zsh-theme/blob/master/images/theme.jpg" alt="NCTU"></p>
 
 # Getting Started
 ## Prerequisites
