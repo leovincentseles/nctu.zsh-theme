@@ -8,6 +8,6 @@ nctu is a theme for Zsh. It emphasizes lightweight and speed.
 
 ## Basic Installation
 ```zsh
-git clone https://github.com/leovincentseles/nctu.zsh-theme.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/nctu
+git clone https://github.com/leovincentseles/nctu.zsh-theme.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/leovincentseles
 ```
 Set `ZSH_THEME="leovincentseles/nctu"` in `~/.zshrc.`
